@@ -1,6 +1,4 @@
-
-![Tarjeta de presentación hojas blob rosa](https://github.com/AnaMariaValdesChile/AnaMariaValdesChile/assets/130001037/4785ea57-9977-4c18-b9c8-2e543eb7421e)
-
+![Tarjeta rosa](https://github.com/AnaMariaValdesChile/AnaMariaValdesChile/assets/130001037/7f5be69d-cd38-47f4-8556-b4ccb5330a9f)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
