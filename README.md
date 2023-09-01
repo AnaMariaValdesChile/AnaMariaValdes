@@ -1,7 +1,9 @@
 # About AnaMariaValdes  
 ![Tarjeta de presentación hojas blob rosa](https://github.com/AnaMariaValdesChile/AnaMariaValdesChile/assets/130001037/df199c3d-c341-4200-80ee-7e7b32bd0541)
 
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/AnaMariaValdesChile/AnaMariaValdesChile/assets/130001037/df199c3d-c341-4200-80ee-7e7b32bd0541">
+</p>
 Estudiante de Laboratoria, he desarrollado proyectos en JavaScript, Html y CSS. Actualmente me encuentro desarrollando una API para un restaurant de hamburguezas en Angular. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
