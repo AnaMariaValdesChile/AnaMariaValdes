@@ -20,6 +20,10 @@ futuro que veo en esta área y el crecimiento que
 puede dar a mi vida.
 </p>
 
+<p align="center">
+  Habilidades técnicas
+  </p>
+  
 ![Sin título (1000 × 300 px)](https://github.com/AnaMariaValdesChile/AnaMariaValdesChile/assets/130001037/09965f77-879f-419f-88f9-01a663ced812)
 
 
